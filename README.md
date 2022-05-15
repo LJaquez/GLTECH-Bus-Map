@@ -1,2 +1,2 @@
 # GLTECH-Bus-Map
-[![GLTECH Map Annimation](img)](https://www.youtube.com/watch?v=YmgChy038LE "GLTECH Bus Map Animation")
+[![GLTECH Map Annimation](<img src="map-vid-thumbnail.png">)](https://www.youtube.com/watch?v=YmgChy038LE "GLTECH Bus Map Animation")
